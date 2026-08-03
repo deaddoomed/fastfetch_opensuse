@@ -13,7 +13,7 @@ fastfetch --gen-config
 
 then copy the files into the folder.
 
-To change the image, rewrite the name of the file on the fourth line of config.jsonc "source" for "tumbleweed", "leap" or "geeko
+To change the image, rewrite the name of the file on the fourth line of config.jsonc "source" for "tumbleweed", "leap" or "geeko".
 ```
 "source": "~/.config/fastfetch/image/opensuse.png"
 ```
