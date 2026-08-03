@@ -1,7 +1,7 @@
 ![Preview](/preview.png)
 
 # fastfetch_opensuse
-fastfetch config for opensuse with official colour, added images for opensuse, tumbleweed and leap.
+fastfetch config for opensuse with official colour, added images for opensuse, tumbleweed, slowroll and leap.
 based on github.com/harilvfs script, credits to him/her
 
 ## installation
@@ -13,7 +13,7 @@ fastfetch --gen-config
 
 then copy the files into the folder.
 
-To change the image, rewrite the name of the file on the fourth line of config.jsonc "source" for "tumbleweed", "leap" or "geeko".
+To change the image, rewrite the name of the file on the fourth line of config.jsonc "source" for "tumbleweed", "slowroll", "leap" or "geeko".
 ```
 "source": "~/.config/fastfetch/image/opensuse.png"
 ```
