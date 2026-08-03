@@ -17,3 +17,6 @@ To change the image, rewrite the name of the file on the fourth line of config.j
 ```
 "source": "~/.config/fastfetch/image/opensuse.png"
 ```
+##You need to have installed a nerd font as for the little icons:
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.0/Hack.zip
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.0/JetBrainsMono.zip
