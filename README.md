@@ -20,7 +20,7 @@ https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.0/JetBrainsMono.z
 
 ## Logos
 
-To change the image, rewrite the name of the file on the fourth line of config.jsonc "source" for logos available in image folder.
+To change the image, edit the file name on the fourth line of config.jsonc using the logos available in image folder.
 ```
 "source": "~/.config/fastfetch/image/opensuse.png"
 ```
