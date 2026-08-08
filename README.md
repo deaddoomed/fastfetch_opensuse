@@ -34,5 +34,6 @@ Available logos:
     <td align="center"><img src="image/tumbleweed.png" width="150" height="150" alt="tumbleweed"><br><sub>tumbleweed</sub></td>
     <td align="center"><img src="image/leap.png" width="150" height="150" alt="leap"><br><sub>leap</sub></td>
     <td align="center"><img src="image/slowroll.png" width="150" height="150" alt="slowroll"><br><sub>slowroll</sub></td>
+    <td align="center"><img src="image/micros.png" width="150" height="150" alt="micros"><br><sub>micros</sub></td>
   </tr>
 </table>
