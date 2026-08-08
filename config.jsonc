@@ -3,7 +3,6 @@
     "logo": {
         "source": "~/.config/fastfetch/image/opensuse.png",
         "type": "kitty",
-        "height": 15,
         "width": 30,
         "padding": {
             "top": 5,
