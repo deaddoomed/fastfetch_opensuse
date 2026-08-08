@@ -1,7 +1,7 @@
 ![Preview](/preview.png)
 
 # fastfetch_opensuse
-fastfetch config for opensuse with official colour, added images for opensuse, tumbleweed, slowroll and leap.
+fastfetch config for opensuse with official colour, added images for opensuse, tumbleweed, slowroll, microos and leap.
 based on github.com/harilvfs script, credits to him/her
 
 ## installation
